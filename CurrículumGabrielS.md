@@ -4,11 +4,11 @@
 
 
 ## 📚 Formación académica
-- **[Institución / Universidad]** — *[Título obtenido]*  
-  _Años de estudio (ej. 2018 - 2022)_
+- **[IES Jose María Parra]** — *[Bachiller humanístico]*  
+  _Años de estudio (2022 - 2024)_
 
-- **[Institución / Escuela]** — *[Nivel educativo]*  
-  _Años de estudio (ej. 2015 - 2018)_
+- **[IES Simarro La Cabra]** — *[Grado superior ASIR]*  
+  _Años de estudio (2024 - 2026)_
 
 
 ## 🎓 Formación complementaria
@@ -49,9 +49,9 @@ _Años (ej. 2019 - 2021)_
 
 
 ## 📞 Contacto
-- 📧 **Correo:** *tuemail@ejemplo.com*  
+- 📧 **Correo:** *salessanchezgabriel@gmail.com*  
 - 📞 **Teléfono:** *+34 600 000 000*  
-- 🔗 **LinkedIn/GitHub/Portafolio:** [**Tu perfil**](https://ejemplo.com)  
+- 🔗 **GitHub:** [**Tu perfil**](https://ejemplo.com)  
 
 
 ## 🏠 Domicilio
