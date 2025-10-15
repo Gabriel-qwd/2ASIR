@@ -9,33 +9,19 @@
 
 - **[IES Simarro La Cabra]** — *[Grado superior ASIR]*  
   _Años de estudio (2024 - 2026)_
-
-
-## 🎓 Formación complementaria
-- **[Curso / Certificación]** — *[Entidad]*  
-  _Año_
-
-- **[Taller / Seminario]** — *[Entidad]*  
-  _Año_
+  
 
 
 ## 💼 Experiencia profesional
-**[Nombre de la empresa]** — *[Puesto]*  
-_Años (ej. 2021 - Actualidad)_  
-- **Responsabilidad 1**  
-- **Responsabilidad 2**  
-- _Logro destacado_  
-
-**[Nombre de la empresa]** — *[Puesto]*  
-_Años (ej. 2019 - 2021)_  
-- **Responsabilidad 1**  
-- **Responsabilidad 2**  
+**[IES Lluis suñer]** — *[Administrador de sistemas]*  
+_Años (mayo 2025 - julio 2025)_  
+ 
 
 
 ## 🌍 Idiomas
 - **Español** — *Nativo*  
-- **Inglés** — Nivel *[B1/B2/C1]*  
-- **[Otro idioma]** — Nivel *[básico/intermedio/avanzado]*  
+- **Inglés** — Nivel *[C1]*  
+- **Valenciano** — Nivel *[C1]*  
 
 
 ## 🛠️ Habilidades
@@ -50,9 +36,9 @@ _Años (ej. 2019 - 2021)_
 
 ## 📞 Contacto
 - 📧 **Correo:** *salessanchezgabriel@gmail.com*  
-- 📞 **Teléfono:** *+34 600 000 000*  
+- 📞 **Teléfono:** *+34 688 888 888*  
 - 🔗 **GitHub:** [**Tu perfil**](https://ejemplo.com)  
 
 
 ## 🏠 Domicilio
-📍 *[Ciudad, País]*  
+📍 *[Ciudad, Alzira]*  
